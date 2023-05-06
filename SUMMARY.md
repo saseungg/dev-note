@@ -18,11 +18,17 @@
   * [6장. 프로토타입](study/undefined/6-..md)
   * [7장. 클래스](study/undefined/7-..md)
 
-## mentoring
+## etc
 
-* [인프런 멘토링](mentoring/undefined.md)
+* [멘토링 & 조언](etc/and/README.md)
+  * [크롱 면담](etc/and/undefined.md)
+  * [인프런 멘토링](etc/and/undefined-1.md)
+  * [dony 조언](etc/and/dony.md)
+* [역량 평가](etc/undefined.md)
 
 ## Project
 
-* [amazon-clone](project/amazon-clone.md)
-* [news-stand](project/news-stand.md)
+* [amazon-clone](project/amazon-clone/README.md)
+  * [마스터 클래스](project/amazon-clone/undefined.md)
+* [news-stand](project/news-stand/README.md)
+  * [마스터 클래스](project/news-stand/undefined.md)
