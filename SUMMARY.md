@@ -4,7 +4,8 @@
 
 ## archive
 
-* [프로젝트 초기 설정](archive/undefined.md)
+* [프로젝트 초기 설정](archive/undefined/README.md)
+  * [prettier, es lint](archive/undefined/prettier-es-lint.md)
 * [React](archive/react.md)
 
 ## study
