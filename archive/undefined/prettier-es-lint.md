@@ -69,11 +69,11 @@ eslint와 prettier간 충돌 나는 규칙을 비활성해주는 eslint 설정
 
 
 
+### 참고
 
+{% embed url="https://velog.io/@dishate/react-%ED%98%91%EC%97%85-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-eslint-prettier-.vscode" %}
 
-
-
-
+{% embed url="https://lakelouise.tistory.com/199" %}
 
 
 
