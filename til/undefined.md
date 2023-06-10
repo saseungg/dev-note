@@ -259,16 +259,16 @@ export default useIntersectionObserver;
 
 ### 참고
 
-[TIL #1 빠르고 간편하게 React 로 InfiniteScroll (무한 스크롤) 구현하기](https://rrecoder.tistory.com/171)
+{% embed url="https://github.dev/sjoleee/bemyidol-frontend" %}
 
-[\[React\] 무한 스크롤 적용하기](https://velog.io/@sjoleee\_/React-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4)
+{% embed url="https://rrecoder.tistory.com/171" %}
 
-[IntersectionObserver - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/IntersectionObserver)
+{% embed url="https://velog.io/@sjoleee_/React-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4" %}
 
-[Intersection Observer - 요소의 가시성 관찰](https://heropy.blog/2019/10/27/intersection-observer/)
+{% embed url="https://developer.mozilla.org/ko/docs/Web/API/IntersectionObserver" %}
 
-***
+{% embed url="https://heropy.blog/2019/10/27/intersection-observer/" %}
 
-[\[React\] 검색에서 Debounce 적용해보기](https://velog.io/@sjoleee\_/debounce-throttle-%EC%A0%95%EB%A6%AC)
+{% embed url="https://velog.io/@sjoleee_/debounce-throttle-%EC%A0%95%EB%A6%AC" %}
 
-[\[React\] Intersection Observer API를 이용한 무한 스크롤 구현하기](https://velog.io/@jsi06138/React-Intersection-Observer-API%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+{% embed url="https://velog.io/@jsi06138/React-Intersection-Observer-API%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0" %}
